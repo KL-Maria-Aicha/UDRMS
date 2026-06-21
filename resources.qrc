@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="ic_students.svg">icons/ic_students.svg</file>
+        <file alias="ic_rooms.svg">icons/ic_rooms.svg</file>
+        <file alias="ic_restaurant.svg">icons/ic_restaurant.svg</file>
+        <file alias="ic_reports.svg">icons/ic_reports.svg</file>
+        <file alias="ic_users.svg">icons/ic_users.svg</file>
+        <file alias="ic_portal.svg">icons/ic_portal.svg</file>
+        <file alias="ic_settings.svg">icons/ic_settings.svg</file>
+        <file alias="ic_dashboard.svg">icons/ic_dashboard.svg</file>
+        <file alias="ic_logout.svg">icons/ic_logout.svg</file>
+        <file alias="ic_search.svg">icons/ic_search.svg</file>
+        <file alias="ic_plus.svg">icons/ic_plus.svg</file>
+        <file alias="ic_edit.svg">icons/ic_edit.svg</file>
+        <file alias="ic_trash.svg">icons/ic_trash.svg</file>
+        <file alias="ic_key.svg">icons/ic_key.svg</file>
+        <file alias="ic_undo.svg">icons/ic_undo.svg</file>
+        <file alias="ic_refresh.svg">icons/ic_refresh.svg</file>
+        <file alias="ic_bell.svg">icons/ic_bell.svg</file>
+        <file alias="ic_check.svg">icons/ic_check.svg</file>
+        <file alias="ic_close.svg">icons/ic_close.svg</file>
+        <file alias="ic_calendar.svg">icons/ic_calendar.svg</file>
+        <file alias="ic_chevron_left.svg">icons/ic_chevron_left.svg</file>
+        <file alias="ic_chevron_right.svg">icons/ic_chevron_right.svg</file>
+        <file alias="ic_folder.svg">icons/ic_folder.svg</file>
+        <file alias="logo.svg">icons/logo.svg</file>
+        <file alias="banner_students.svg">icons/banner_students.svg</file>
+        <file alias="banner_rooms.svg">icons/banner_rooms.svg</file>
+        <file alias="banner_restaurant.svg">icons/banner_restaurant.svg</file>
+        <file alias="banner_reports.svg">icons/banner_reports.svg</file>
+        <file alias="banner_users.svg">icons/banner_users.svg</file>
+        <file alias="banner_portal.svg">icons/banner_portal.svg</file>
+    </qresource>
+</RCC>
