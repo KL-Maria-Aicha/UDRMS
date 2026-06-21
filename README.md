@@ -7,7 +7,7 @@ A desktop application built with Qt (C++) and SQLite for managing university dor
 - Authentication: role-based login (admin, manager, staff, student)
 - Student management: register students, assign/vacate dormitory rooms
 - Room management: dormitories, floors, rooms, occupancy tracking
-- Restaurant management: cafeteria menus (breakfast/lunch/dinner), no pricing — meals are subsidised
+- Restaurant management: cafeteria menus (breakfast/lunch/dinner)
 - Meal reservations: students reserve meals by date; staff can view daily reservations
 - Reports: occupancy statistics, reservation summaries, charts
 - Student portal: students log in to view their room, the menu, and manage their own meal reservations
@@ -25,13 +25,6 @@ A desktop application built with Qt (C++) and SQLite for managing university dor
 - Composition: Dormitory owns Rooms and a Restaurant; Restaurant owns MenuItems
 - Singleton pattern: DatabaseManager is the single point of access to the SQLite database
 - Separation of concerns: model classes vs. data access (DatabaseManager) vs. UI (MainWindow, dialogs)
-
-## How to Build
-
-1. Open UDRMS.pro in Qt Creator
-2. Select a kit (Desktop Qt with MinGW or MSVC)
-3. Build in Release mode
-4. Run
 
 Default admin login on first launch:
 - Username: admin
