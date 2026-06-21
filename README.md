@@ -43,11 +43,8 @@ Default admin login on first launch:
 
 See the UML diagram file included in this repository for the full class diagram, showing relationships between Person, Student, Room, Dormitory, Restaurant, MenuItem, User, and DatabaseManager.
 
-## Demo Video
-
-Link: PASTE_YOUR_YOUTUBE_LINK_HERE
 
 ## Author
 
-- Name: YOUR NAME HERE
-- Course: ENSIA — OOP / GUI project
+- Name: KALOUNE Maria Aicha
+- Course: ENSIA — OOP
